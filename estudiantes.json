@@ -1,0 +1,21 @@
+{
+    "estudiantes": [
+        {
+            "nombre": "David",
+            "apellido": "Rodriguez",
+            "Inasistencias": 10
+        },
+
+        {
+            "nombre": "David",
+            "apellido": "Mejia",
+            "Inasistencias": 2
+        },
+
+        {
+            "nombre": "Valentina",
+            "apellido": "Bernal",
+            "Inasistencias": 5
+        }
+    ]
+}
