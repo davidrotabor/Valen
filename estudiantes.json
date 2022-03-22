@@ -1,5 +1,5 @@
-{
-    estudiantes: [
+{"hola": {
+   "estudiantes": [
         {
             "nombre": "David",
             "apellido": "Rodriguez",
@@ -17,5 +17,5 @@
             "apellido": "Bernal",
             "Inasistencias": 5
         }
-    ]
+    ] }
 }
