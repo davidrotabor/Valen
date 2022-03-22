@@ -2,16 +2,16 @@
     {
         "nombre": "David",
             "apellido": "Rodriguez",
-            "Inasistencias": 10
+            "inasistencias": 10
     }, 
     {
         "nombre": "David",
             "apellido": "Mejia",
-            "Inasistencias": 2
+            "inasistencias": 2
     },
     {
         "nombre": "Valentina",
             "apellido": "Bernal",
-            "Inasistencias": 5
+            "inasistencias": 5
     }
 ]
